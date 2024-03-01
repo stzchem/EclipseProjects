@@ -3,7 +3,11 @@ package com.stzzx.www;
 public class MyMainClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		int a,b,c;
+		a=1;
+		b=2;
+		c=3;
+		System.out.println(a+b+c);
 
 	}
 
